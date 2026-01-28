@@ -1,6 +1,6 @@
 
 function runTypingEffect() {
-  const text = 'I am Lebo Sekaleli.';
+  const text = 'I am Lebo Sekaleli!';
   const typingElement = document.getElementById('typing-text');
   const typingDelay = 100;
 
